@@ -89,4 +89,3 @@ This project is licensed under the MIT License. Check the [LICENSE](LICENSE) fil
 ## **Contact**
 
 Have questions, suggestions, or just want to say hi? Open an issue here or reach out to me [here](https://atlasgondal.com/contact-me/?utm_source=self&utm_medium=github&utm_campaign=audiopsy&utm_term=git-description). 
-```
